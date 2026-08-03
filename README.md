@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🍔 Food Order App
 
 ## معرفی پروژه
@@ -30,3 +31,7 @@
 
 ```bash
 git clone YOUR_REPOSITORY_URL
+=======
+# react-food-order-app
+React food ordering app with search, filters, and shopping cart.
+>>>>>>> 2d3c56768674e594bb83c173a945c6d4f193c841
