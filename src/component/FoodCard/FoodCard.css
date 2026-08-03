@@ -1,0 +1,72 @@
+.foodcart{
+    width: 280px;
+    padding: 20px;
+border-radius: 15px;
+background-color: white;
+  box-shadow: 0 5px 15px rgba(0,0,0,0.1);
+  text-align: center;
+ 
+  display: flex;
+  flex-direction: column;
+}
+.foodcart img{
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    margin: 15px 0;
+
+}
+.foodcart h3{
+    margin: 15px 0;
+    font-size: 22px;
+
+}
+.foodcart p{
+    color: gray;
+
+}
+.foodcart strong{
+    display: block;
+  margin: 10px;
+  font-size: 20px;  
+}
+
+.foodcart button {
+  padding: 10px 20px;
+  border: none;
+  background: #ff6b00;
+  color: white;
+  border-radius: 8px;
+  cursor: pointer;
+}
+}
+.foodcart img{
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    margin: 15px 0;
+
+}
+.foodcart h3{
+    margin: 15px 0;
+    font-size: 22px;
+
+}
+.foodcart p{
+    color: gray;
+
+}
+.foodcart strong{
+    display: block;
+  margin: 10px;
+  font-size: 20px;  
+}
+
+.foodcart button {
+  padding: 10px 20px;
+  border: none;
+  background: #ff6b00;
+  color: white;
+  border-radius: 8px;
+  cursor: pointer;
+}

@@ -1,0 +1,23 @@
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+body {
+  font-family: Arial, sans-serif;
+}
+:root {
+  --primary: #ff6b00;
+  --primary-hover: #e85d04;
+
+  --background: #f8f9fa;
+  --surface: #ffffff;
+
+  --text: #333333;
+  --text-light: #666666;
+
+  --shadow: 0 5px 15px rgba(0, 0, 0, 0.1);
+
+  --radius: 12px;
+}

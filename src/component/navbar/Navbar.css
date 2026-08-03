@@ -1,0 +1,52 @@
+nav {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 20px 50px;
+  background: var(--primary);
+  color: white;
+}
+.foodcart {
+  background: var(--surface);
+  box-shadow: var(--shadow);
+  border-radius: var(--radius);
+}
+
+
+nav h1 {
+  font-size: 28px;
+  font-weight: bold;
+}
+
+nav ul {
+  display: flex;
+  gap: 25px;
+  list-style: none;
+}
+
+nav ul li {
+  cursor: pointer;
+}
+
+nav ul li a {
+  color: white;
+  text-decoration: none;
+  font-size: 18px;
+  transition: 0.3s;
+}
+
+nav ul li a:hover {
+  color: #222;
+}
+
+button {
+  background: var(--primary);
+}
+
+button:hover {
+  background: var(--primary-hover);
+}
+
+.cart {
+  background: var(--background);
+}

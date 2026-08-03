@@ -1,0 +1,31 @@
+.hero{
+    min-height: 80vh;
+    display: flex;
+    align-items: center;
+    padding: 50px;
+      background: #fff4e6;
+}
+.hero div{
+    max-width: 600px;
+}
+.hero h1{
+    font-size: 40px;
+    margin-bottom: 20px;
+    color: #333;
+}
+.hero p{
+    font-size: 20px;
+    margin-bottom: 30px;
+    color: #666;
+}
+.hero button{
+    border: o;
+    padding: 12px 30px;
+    background: #ff6b00;  
+    color: white;
+    font-size: 19px;
+    border-radius: 8px;
+}
+.hero button:hover{
+    opacity: 0.8;
+}
