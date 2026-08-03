@@ -22,7 +22,7 @@ cart.length ===0 ?(
 
 
     cart.map(item=>(
-       <div>
+       <div key={item.id}>
     <div className="cart-item">
       <img src={item.img} alt="" />
 
