@@ -1,3 +1,5 @@
+
+import React from 'react'
 import "./footer.css";
 
 export default function Footer() {
@@ -5,5 +7,5 @@ export default function Footer() {
     <footer className="footer">
       <p>© 2026 Food Order App. All rights reserved.</p>
     </footer>
-  );
+  )
 }
