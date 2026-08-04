@@ -1,28 +1,32 @@
 # 🍔 Food Order App
 
-A modern and responsive Food Ordering application built with React and Vite. Users can browse the menu, search and filter foods, add items to the cart, manage quantities, and view the total price.
+A modern and responsive Food Ordering application built with React. Users can browse food items, search by name, filter by category, and manage their shopping cart.
 
-## 🚀 Features
+## 🚀 Live Demo
+
+https://react-food-order-app-mu.vercel.app/
+
+## ✨ Features
 
 - Browse food menu
-- Search foods by name
+- Search food items
 - Filter foods by category
-- Add products to the shopping cart
-- Remove products from the cart
+- Add items to cart
+- Remove items from cart
 - Increase and decrease item quantity
 - Calculate total cart price
-- Responsive user interface
-- Client-side routing with React Router
-- Global state management using Context API
+- Responsive design
+- React Router navigation
+- Context API state management
 
 ## 🛠 Technologies
 
 - React
 - JavaScript (ES6+)
-- Vite
-- React Router
+- React Router DOM
 - Context API
 - CSS3
+- Vite
 
 ## 📦 Installation
 
@@ -50,22 +54,18 @@ Run the development server:
 npm run dev
 ```
 
-Build for production:
+Build the project:
 
 ```bash
 npm run build
 ```
 
-## 🌐 Live Demo
-
-https://react-food-order-app-mu.vercel.app
-
-## 📂 GitHub Repository
-
-https://github.com/fshoja/react-food-order-app
-
 ## 👩‍💻 Author
 
 **Farzaneh Shoja**
 
-GitHub: https://github.com/fshoja
+- GitHub: https://github.com/fshoja
+
+## 📄 License
+
+This project is licensed under the MIT License.
